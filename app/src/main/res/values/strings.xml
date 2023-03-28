@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">White Noise Generator</string>
+    <string name="play_button_description">Play</string>
+    <string name="stop_button_description">Stop</string>
+</resources>
